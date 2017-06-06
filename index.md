@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# 欢迎来到 GitHub Pages  
+# 我们是东国大学计算机系软件课程的成员 
 
-You can use the [editor on GitHub](https://github.com/chen7206/chen123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 本次研究课题： webRTC
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 小组成员
 
-### Markdown
+석정한 심희오 강정석 천훼 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 简介 :
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## WebRTC
 ```
+WebRTC，名称源自网页实时通信（Web Real-Time Communication）的缩写，是一个支持网页浏览器进行实时语音对话或视频对话的技术，是谷歌2010年以6820万美元收购Global IP Solutions公司而获得的一项技术。2011年5月开放了工程的源代码，在行业内得到了广泛的支持和应用，成为下一代视频通话的标准。
+```
+## 特点
+```
+WebRTC实现了基于网页的视频会议，标准是WHATWG 协议，目的是通过浏览器提供简单的javascript就可以达到实时通讯（Real-Time Communications (RTC)）能力。
+WebRTC提供了视频会议的核心技术，包括音视频的采集、编解码、网络传输、显示等功能，并且还支持跨平台：windows，linux，mac，android。
+```
+## 架构
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 紫色部分是Web开发者API层
+- 蓝色实线部分是面向浏览器厂商的API层
+- 蓝色虚线部分浏览器厂商可以自定义实现
 
-### Jekyll Themes
+## 架构组件介绍
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen7206/chen123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Web开发者开发的程序，Web开发者可以基于集成WebRTC的浏览器提供的web API开发基于视频、音频的实时通信应用。
+2. 面向第三方开发者的WebRTC标准API（Javascript），使开发者能够容易地开发出类似于网络视频聊天的web应用
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+# GithubPages 에 오신 것을 환영합니다
+### webRTC 를 이용한 채팅 프로그램 입니다 .이 프로그램은 동국대학교 공개 SW 시간에 팀 프로젝트로 진행하였습니다 
+## 주제： webRTC
+### 팀원
+석정한 심희오 강정석 천훼 
+# 소개 :
+## WebRTC
+```
+플러그인도움없이상호통신할수있도록설계된API이다.플러그인도움없이상호통신할수있도록설계된API이다.WebRTC는구글이오픈소스화한프로젝트에서기원하였으며,업을, W3C가API 정의를진행하였다.업을, W3C가API 정의를진행하였다.
+```
+## WebRTC를주목해야하는이유(유저)
+
+- Easy to Use
+- No PlugIn
+- No Install
+
+## WebRTC를주목해야하는이유(개발자)
+
+1. Easy to Build and Save Money
+2. Javascript API
+   Less server traffic
+
+
+
+
+
