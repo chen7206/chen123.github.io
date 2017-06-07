@@ -42,8 +42,7 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
 ![baidu-images](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496835440507&di=a56e15f2e0a339b836b10bf8c12824a7&imgtype=0&src=http%3A%2F%2Fi0.hexun.com%2F2017-06-02%2F189454793.jpg)    
 
 ## 2。 登录页面 ，输入相同的口令即可进入
-  ![image](https://github.com/secondLieutenantCoder/TableAndCollection/blob/master/resut.png?raw=true)
-
+  ![image]
 # GithubPages 에 오신 것을 환영합니다
 ### webRTC 를 이용한 채팅 프로그램 입니다 .이 프로그램은 동국대학교 공개 SW 시간에 팀 프로젝트로 진행하였습니다 
 ## 주제： webRTC
