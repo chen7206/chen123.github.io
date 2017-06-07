@@ -5,7 +5,7 @@
 
 ### 小组成员
 
-석정한 심희오 강정석 천훼 
+ -  석정한 심희오 강정석 천훼 
 
 # 简介 :
 
@@ -33,6 +33,47 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
 1. Web开发者开发的程序，Web开发者可以基于集成WebRTC的浏览器提供的web API开发基于视频、音频的实时通信应用。
 2. 面向第三方开发者的WebRTC标准API（Javascript），使开发者能够容易地开发出类似于网络视频聊天的web应用
 
+##  Markdown语法
+![baidu-images](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2285703242,468077740&fm=26&gp=0.jpg) 
+
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
+Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，它们能让Markdown转换成更多的格式，例如LaTeX，Docbook。Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。
+
+##  标题
+标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。
+ # Header 1
+ ## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+   
+##  文本样式
+链接 :[Title](URL)    
+
+加粗 :**Bold**      
+
+斜体字 :*Italics*        
+
+*删除线 :~~text~~             
+
+*高亮 :==text==              
+
+段落 : 段落之间空一行              
+
+换行符 : 一行结束时输入两个空格             
+
+列表 :* 添加星号成为一个新的列表项。             
+
+引用 :> 引用内容            
+
+内嵌代码 : `alert('Hello World');`              
+
+画水平线 (HR) :--------            
+
+
+
 ## 聊天室登陆方法： 
     
 ## 1.  通过浏览器键入 
@@ -51,7 +92,7 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
 ### webRTC 를 이용한 채팅 프로그램 입니다 .이 프로그램은 동국대학교 공개 SW 시간에 팀 프로젝트로 진행하였습니다 
 ## 주제： webRTC
 ### 팀원
-석정한 심희오 강정석 천훼 
+-  석정한 심희오 강정석 천훼 
 # 소개 :
 ## WebRTC
 ```
@@ -69,6 +110,60 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
 1. Easy to Build and Save Money
 2. Javascript API
    Less server traffic
+
+##  Markdown문법
+![baidu-images](http://cfile3.uf.tistory.com/image/27710F4B57188341379FA8) 
+- Markdown Here를 기준으로 Markdown 문법에 대해서 정리하는 포스트입니다.
+- Markdown 옵션의 미리보기를 기준으로 작성하였습니다.
+
+# Syntax Highlighting
+```
+function syntaxHighlighting() { 
+var n = 33; 
+var s = "hello, こんにちは"; 
+console.log(s); 
+}
+```
+```javascript
+function syntaxHighlighting() {
+  var n = 33;
+  var s = "hello, こんにちは";
+  console.log(s);
+}
+```
+# 코드 블럭
+
+code block 
+with no highlighting
+
+```
+code block
+with no highlighting
+```
+
+# 인라인 코드 블럭
+inline code     
+`inline code`
+
+# 리스트
+리스트1    
+
+리스트2     
+
+리스트2-1     
+
+리스트2-1-1     
+
+리스트3      
+
+
+* 리스트1
+* 리스트2
+  * 리스트2-1
+    * 리스트2-1-1
+* 리스트3
+
+##   [超链接](http://sonim1.tistory.com/110)<br />
 
 
 #  채팅방사용방법
