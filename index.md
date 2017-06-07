@@ -35,8 +35,11 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
 
 ## 聊天室登陆方法： 
     
-## 1。         
-![baidu-images](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496835440507&di=a56e15f2e0a339b836b10bf8c12824a7&imgtype=0&src=http%3A%2F%2Fi0.hexun.com%2F2017-06-02%2F189454793.jpg)  
+## 1。  通过浏览器键入 
+  - rudebono.github.io/dguchat
+   
+   
+![baidu-images](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496835440507&di=a56e15f2e0a339b836b10bf8c12824a7&imgtype=0&src=http%3A%2F%2Fi0.hexun.com%2F2017-06-02%2F189454793.jpg)    
 
 ## 2。
 
