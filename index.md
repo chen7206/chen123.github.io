@@ -45,7 +45,7 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
   ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true)
   
 ## 3. 进入 聊天页面
-  ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true)
+  ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607205013_%E5%89%AF%E6%9C%AC.jpg?raw=true)
   
 # GithubPages 에 오신 것을 환영합니다
 ### webRTC 를 이용한 채팅 프로그램 입니다 .이 프로그램은 동국대학교 공개 SW 시간에 팀 프로젝트로 진행하였습니다 
@@ -71,6 +71,17 @@ WebRTC提供了视频会议的核心技术，包括音视频的采集、编解�
    Less server traffic
 
 
+#  채팅방사용방법
+  
+## 1.  Chrome   
+ - rudebono.github.io/dguchat 
 
+![baidu-images](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496835440507&di=a56e15f2e0a339b836b10bf8c12824a7&imgtype=0&src=http%3A%2F%2Fi0.hexun.com%2F2017-06-02%2F189454793.jpg) 
+
+## 2. - rudebono.github.io/dguchat  채팅방 들어갔으면 상대방도 같은이름으로 입력하면 된다
+  ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607204350.jpg?raw=true)
+  
+## 3. 채팅이 시작됩니다
+  ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607205013_%E5%89%AF%E6%9C%AC.jpg?raw=true)
 
 
