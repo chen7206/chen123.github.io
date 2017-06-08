@@ -88,8 +88,8 @@ Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格�
 ## 3. 进入 聊天页面
   ![image](https://github.com/chen7206/webRTC/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170607205013_%E5%89%AF%E6%9C%AC.jpg?raw=true)
   
-# GithubPages 에 오신 것을 환영합니다
-### webRTC 를 이용한 채팅 프로그램 입니다 .이 프로그램은 동국대학교 공개 SW 시간에 팀 프로젝트로 진행하였습니다 
+# GithubPages에 오신 것을 환영합니다.
+### webRTC를 이용한 채팅 프로그램 입니다. 이 프로그램은 동국대학교 공개 SoftWare 강의시간에 팀 프로젝트로 진행했습니다.
 ## 주제： webRTC
 ### 팀원
 -  석정한 심희오 강정석 천훼 
